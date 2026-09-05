@@ -1,105 +1,104 @@
 <div align="center">
 
-<img src="./shahyad-banner.png" width="100%">
+<img src="./shahyad-banner.png" width="100%" alt="SHAHYAD">
 
 <br>
 
-# 🏛️ SHAHYAD
+# 🏛️ شهیاد
 
-### Software Development Studio
+### استودیو توسعه نرم‌افزار
 
-Building modern software, tools and digital experiences.
-
-<br>
-
-</div>
-
----
-
-## ⚡ About
-
-شهیاد یک تیم توسعه نرم‌افزار است که روی ساخت
-محصولات مدرن، ابزارهای توسعه و سیستم‌های قابل اعتماد تمرکز دارد.
-
-
----
-
-## 👨‍💻 ASR TEAM
-
-```
-ASR1  ×  ASR2
-
-Two Developers
-One Vision
-```
-
----
-
-## 🚀 What We Do
-
-```
-◈ Software Development
-◈ Configuration Panels
-◈ Developer Tools
-◈ Open Source Projects
-```
-
----
-
-## 🛠 Stack
-
-<div align="center">
-
-JavaScript  
-TypeScript  
-React  
-Next.js  
-Node.js  
-Python  
-Git  
+ساخت ابزارها، سیستم‌ها و تجربه‌های دیجیتال مدرن
 
 </div>
 
 
 ---
 
-## 🌐 Featured Project
+## ✨ درباره ما
 
-
-### Nika-Net
-
-> Modern Configuration & Management Platform
-
-
-Status:
-
-🟢 Active
-
+شهیاد یک تیم توسعه نرم‌افزار است که با تمرکز بر
+طراحی، توسعه و ساخت راهکارهای مدرن فعالیت می‌کند.
 
 ---
 
-## 🗺 Roadmap
+## 👨‍💻 تیم ASR
 
 ```
-✓ Brand Identity
+ASR1 × ASR2
 
-✓ Core Development
-
-→ New Platforms
-
-→ Open Source Ecosystem
+دو توسعه‌دهنده
+یک هدف
 ```
 
+ساخت نرم‌افزارهای قدرتمند، ساده و قابل اعتماد.
+
+---
+
+## 🚀 چه کار می‌کنیم؟
+
+```
+◈ توسعه نرم‌افزار
+
+◈ ساخت پنل‌های مدیریتی
+
+◈ ابزارهای توسعه‌دهندگان
+
+◈ پروژه‌های متن‌باز
+```
+
+---
+
+## 🛠 فناوری‌ها
+
+```
+JavaScript
+TypeScript
+React
+Next.js
+Node.js
+Python
+Git
+```
+
+---
+
+## 🌐 پروژه منتخب
+
+### نیکا نت
+
+پنل و زیرساخت نرم‌افزاری مدرن  
+برای مدیریت و توسعه سیستم‌ها.
+
+وضعیت:
+
+🟢 فعال
+
+---
+
+## 🗺 مسیر ما
+
+```
+✓ ساخت هویت شهیاد
+
+✓ توسعه پروژه‌های اصلی
+
+→ ساخت ابزارهای جدید
+
+→ گسترش اکوسیستم نرم‌افزاری
+```
 
 ---
 
 <div align="center">
 
-> Code. Build. Create.
+> ما فقط کد نمی‌نویسیم؛  
+> آینده را می‌سازیم.
 
 <br>
 
-🏛️ SHAHYAD  
-ASR Team
+🏛️ شهیاد
+
+تیم ASR
 
 </div>
