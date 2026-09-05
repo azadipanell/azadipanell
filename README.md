@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**azadipanell/azadipanell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./shahyad-banner.png" width="100%" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  SHAHYAD
+</h1>
+
+<p align="center">
+  Configuration Panels • Open Source • Software Engineering
+</p>
+
+
+## 🚀 About Shahyad
+
+شهیاد بستری برای ساخت پنل‌های حرفه‌ای، ابزارهای توسعه و راهکارهای نرم‌افزاری مدرن است.
+
+تمرکز ما روی کیفیت، امنیت، تجربه کاربری و ساخت پروژه‌های قابل اعتماد است.
+
+
+## 👨‍💻 ASR Dev Team
+
+### ASR1 & ASR2
+
+Building modern software and scalable solutions.
+
+
+## 🛠 What We Do
+
+- Web Development
+- Configuration Panels
+- Developer Tools
+- Open Source Projects
+- Software Architecture
+
+
+## ⚡ Tech Stack
+
+JavaScript • TypeScript • React • Next.js • Node.js • Python • Git
