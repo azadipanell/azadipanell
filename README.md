@@ -15,15 +15,17 @@
 
 ## ✨ درباره شهیاد
 
-**شهیاد** یک تیم توسعه نرم‌افزار است که روی ساخت ابزارهای کاربردی،  
+**شهیاد** یک تیم توسعه نرم‌افزار است که روی ساخت ابزارهای کاربردی،
 پنل‌های حرفه‌ای و پروژه‌های مدرن نرم‌افزاری فعالیت می‌کند.
 
-تمرکز ما:
+هدف ما ساخت محصولاتی است که ترکیبی از:
 
-- طراحی ساده و قدرتمند
-- امنیت و پایداری
-- تجربه کاربری بهتر
-- ساخت راهکارهای قابل توسعه
+⚡ سرعت  
+🔒 امنیت  
+🎯 سادگی  
+🏗️ قابلیت توسعه  
+
+باشند.
 
 
 ---
@@ -40,22 +42,10 @@
 </div>
 
 
-### 🧑‍💻 ASR1
-توسعه‌دهنده نرم‌افزار
-
-تمرکز:
-- Backend Development
-- API Design
-- System Architecture
-
-
-### 🧑‍💻 ASR2
-توسعه‌دهنده نرم‌افزار
-
-تمرکز:
-- Frontend Development
-- UI/UX
-- Web Applications
+| عضو | تمرکز |
+|---|---|
+| 🧑‍💻 ASR1 | Backend • API • System Architecture |
+| 🧑‍💻 ASR2 | Frontend • UI/UX • Web Development |
 
 
 ---
@@ -65,35 +55,77 @@
 🔹 توسعه نرم‌افزارهای مدرن  
 🔹 ساخت پنل‌های مدیریتی حرفه‌ای  
 🔹 طراحی ابزارهای توسعه‌دهندگان  
-🔹 ایجاد پروژه‌های متن‌باز  
+🔹 پروژه‌های متن‌باز  
 
 
 ---
 
 # 🛠 فناوری‌ها
 
+
 <div align="center">
 
-JavaScript • TypeScript • React • Next.js
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-Node.js • Python • Git • Linux
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 </div>
 
 
 ---
 
-# 📂 پروژه‌ها
+# 📂 پروژه‌های ما
 
 
 ## 🌐 Nika-Net
 
-پروژه‌ای برای ساخت پنل‌های مدیریتی و ابزارهای نرم‌افزاری مدرن.
+پنل مدیریت و ابزارهای نرم‌افزاری مدرن با تمرکز بر:
+
+- طراحی ساده
+- عملکرد بالا
+- تجربه کاربری بهتر
+
+
+---
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=azadipanell&show_icons=true&theme=github_dark" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadipanell&layout=compact&theme=github_dark" />
+
+</div>
+
+
+---
+
+# 🧩 پروژه‌های آینده
+
+
+🚀 ابزارهای توسعه‌دهندگان  
+🚀 پنل‌های هوشمند  
+🚀 پروژه‌های Open Source  
 
 
 ---
 
 # 📜 دیدگاه ما
+
 
 <div align="center">
 
