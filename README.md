@@ -1,76 +1,105 @@
 <div align="center">
 
-<img src="./shahyad-banner.png" width="100%" alt="SHAHYAD">
+<img src="./shahyad-banner.png" width="100%">
+
+<br>
 
 # 🏛️ SHAHYAD
 
-### Software Development Team
+### Software Development Studio
+
+Building modern software, tools and digital experiences.
+
+<br>
+
+</div>
+
+---
+
+## ⚡ About
+
+شهیاد یک تیم توسعه نرم‌افزار است که روی ساخت
+محصولات مدرن، ابزارهای توسعه و سیستم‌های قابل اعتماد تمرکز دارد.
+
+
+---
+
+## 👨‍💻 ASR TEAM
+
+```
+ASR1  ×  ASR2
+
+Two Developers
+One Vision
+```
+
+---
+
+## 🚀 What We Do
+
+```
+◈ Software Development
+◈ Configuration Panels
+◈ Developer Tools
+◈ Open Source Projects
+```
+
+---
+
+## 🛠 Stack
+
+<div align="center">
+
+JavaScript  
+TypeScript  
+React  
+Next.js  
+Node.js  
+Python  
+Git  
 
 </div>
 
 
 ---
 
-## ✨ درباره ما
-
-شهیاد یک تیم توسعه نرم‌افزار است که روی ساخت
-ابزارهای مدرن، پنل‌های حرفه‌ای و پروژه‌های متن‌باز فعالیت می‌کند.
+## 🌐 Featured Project
 
 
----
+### Nika-Net
 
-## 👨‍💻 ASR Team
+> Modern Configuration & Management Platform
 
-**ASR1 × ASR2**
 
-دو توسعه‌دهنده، یک هدف؛ ساخت تجربه‌های بهتر در دنیای نرم‌افزار.
+Status:
+
+🟢 Active
 
 
 ---
 
-## 🚀 فعالیت‌ها
+## 🗺 Roadmap
 
-- توسعه نرم‌افزار
-- پنل‌های مدیریتی
-- ابزارهای توسعه‌دهندگان
-- پروژه‌های Open Source
+```
+✓ Brand Identity
 
+✓ Core Development
 
----
+→ New Platforms
 
-## 🛠 Tech Stack
-
-JavaScript • TypeScript • React  
-Next.js • Node.js • Python • Git
-
-
----
-
-## 📂 پروژه‌ها
-
-### 🌐 Nika-Net
-
-Configuration & Management Platform
-
-
----
-
-## 🗺️ Roadmap
-
-✅ Brand Identity  
-🔄 Core Projects  
-🚀 Future Platforms
+→ Open Source Ecosystem
+```
 
 
 ---
 
 <div align="center">
 
-> We don't just write code.
-> We build systems.
+> Code. Build. Create.
 
-### 🏛️ SHAHYAD
+<br>
 
-Built by ASR Team
+🏛️ SHAHYAD  
+ASR Team
 
 </div>
